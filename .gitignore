@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Entorno
+.env
+.env.local
+.env*.local
+
+# IDE/Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sistema
+.DS_Store
+Thumbs.db
